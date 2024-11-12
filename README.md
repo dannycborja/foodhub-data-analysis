@@ -59,10 +59,18 @@ Insights from analysis will help FoodHub in:
 ![Customer Ratings](images/ratings_distribution.png)
 
 ### Conclusions
-
+- **Popular Cuisines:** American, Japanese, and Italian cuisines are the most popular, especially on weekends.
+- **Customer Satisfaction:** Despite many unrated orders, high ratings dominate, indicating overall satisfaction.
+- **Operational Independence:** Cost, food preparation time, and delivery time are independent factors.
+- **Weekend Efficiency:** Orders double on weekends, but delivery times remain shorter.
 
 ### Recommendations
-
+- **Focus on Popular Cuisines:** Highlight American, Japanese, and Italian dishes in marketing, while promoting less popular options.
+- **Encourage Ratings:** Use incentives to gather more ratings for better customer feedback.
+- **Target Budget-Conscious Customers:** Offer deals in the $10–$20 range.
+- **Optimize Weekend Staffing:** Maintain short delivery times by staffing adequately on weekends.
+- **Continuous Process Improvement:** Keep refining operations to sustain performance during peak times.
+   **Expand Menu Options:** Introduce more popular cuisines in high-demand areas.
 
 ### How to View
 - **HTML Report**: Open [borja_python_project](https://dannycborja.github.io/foodhub-data-analysis/borja_python_project.html) in your browser for a static view of the analysis.
