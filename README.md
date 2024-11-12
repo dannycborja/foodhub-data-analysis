@@ -39,6 +39,4 @@
 
 
 ### How to View
-## How to View the Project
-
-- **Main Report**: [View Analysis Here](https://dannycborja.github.io/foodhub-data-analysis/borja_python_project.html)
+- **HTML Report**: Open [borja_python_project](https://dannycborja.github.io/foodhub-data-analysis/borja_python_project.html) in your browser for a static view of the analysis.
