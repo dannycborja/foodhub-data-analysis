@@ -25,13 +25,13 @@
 
 
 ### Sample Visualizations
-1. Popular Cuisines
+1. Popular Cuisines  
 ![Popular Cuisines](images/popular_cuisines.png)
 
-3. Delivery Times on Weekends vs Weekdays
+3. Delivery Times on Weekends vs Weekdays  
 ![Delivery Times](images/delivery_times.png)
 
-5. Customer Ratings Distribution
+5. Customer Ratings Distribution  
 ![Customer Ratings](images/ratings_distribution.png)
 
 ### Conclusions
